@@ -1,0 +1,14 @@
+{
+  "name": "nopcommerce_cypress",
+  "version": "1.0.0",
+  "description": "nopcommerce_with_cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steve Nguessong",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
